@@ -11,4 +11,4 @@ Overview of Boston housing value in year 2009 with landmarks displayed:
 
 South Boston neighborhood housing market in year 2009:
 
-![](https://github.com/mchen302/visualization/blob/master/example_pic/2.png)
+![](https://github.com/mchen302/visualization/blob/master/example_pic/2.PNG)
